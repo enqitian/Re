@@ -1,0 +1,6 @@
+{
+  "name": "PrismGem - 手势生成彩钻互动空间",
+  "description": "基于摄像头AI手势识别的3D彩钻互动体验。食指与拇指捏合实时在空间中凝结璀璨彩钻，张开手掌清空场景，移动手势漫游3D水晶空间。",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
